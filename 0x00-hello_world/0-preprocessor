@@ -1,8 +1,2 @@
 #!/bin/bash
-
-#include <stdio.h>
-
-int main(){
-	printf("Hello Alx!\n);
-return 0;
-}
+main.c
